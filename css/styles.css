@@ -1,0 +1,24 @@
+ul label {
+    font-size: 20px;
+    color: white;
+    margin-right: 45%;
+}
+ul li .nav-link{
+    color: white;
+}
+.backG h2{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 15%;
+    color: rgb(255, 106, 47);
+}
+.backG p{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+
+}
+.backG{
+    height: 390px;
+    background-image: url(../image/young-caucasian-woman-wearing-winter-clothes-isolated-blue-background-shouting-with-mouth-wide-open_1368-274026\ \(1\).jpg);
+}
